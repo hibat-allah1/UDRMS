@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>dormitory.jpg</file>
+        <file>restaurant.jpg</file>
+        <file>University.jpg</file>
+    </qresource>
+    <qresource prefix="/n"/>
+</RCC>
